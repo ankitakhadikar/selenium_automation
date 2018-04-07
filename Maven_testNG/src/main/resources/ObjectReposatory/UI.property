@@ -1,0 +1,6 @@
+#UI location stratege
+
+userid_xpath=//*[@id='login1']
+pass_xpath=//*[@id='password']
+
+procedd_name=proceed
